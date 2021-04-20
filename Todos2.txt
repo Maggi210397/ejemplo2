@@ -1,3 +1,4 @@
 1. Iniciar clase de Devops con pase de lista y poner asistencia a los del chat
 2. Crear un repositorio en GitHub
 3. Inicializar repositorio local
+4. Documentar la practica del dia de hoy
