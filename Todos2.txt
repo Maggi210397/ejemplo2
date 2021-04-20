@@ -1,0 +1,2 @@
+1. Iniciar clase de Devops
+2. Crear un repositorio en GitHub
